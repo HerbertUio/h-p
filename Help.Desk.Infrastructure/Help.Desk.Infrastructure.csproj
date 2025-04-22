@@ -8,7 +8,6 @@
 
     <ItemGroup>
       <Folder Include="Database\EntityFramework\Extensions\" />
-      <Folder Include="Database\EntityFramework\Repositories\" />
       <Folder Include="Ioc\" />
     </ItemGroup>
 
